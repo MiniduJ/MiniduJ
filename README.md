@@ -1,39 +1,31 @@
 
-<!-- ===================================================== -->
-<!--                    HERO SECTION                       -->
-<!-- ===================================================== -->
+<!-- ============================================ -->
+<!--                 PROFILE HEADER               -->
+<!-- ============================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:172554,100:0EA5E9&height=230&section=header&text=MINIDU%20PUNSARA&fontSize=48&fontColor=F8FAFC&fontAlignY=36&desc=Software%20Engineer%20%7C%20UI%2FUX%20Designer&descSize=18&descColor=BAE6FD&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=200&section=header&text=MINIDU%20PUNSARA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+Meaningful+Digital+Experiences;Designing+Modern+User+Interfaces;Developing+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Products" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/MiniduJ">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+meaningful+digital+experiences;Engineering+scalable+web+applications;Designing+intuitive+user+experiences;Turning+ideas+into+digital+products" alt="Typing SVG" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=MiniduJ&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge" alt="Profile views" />
 
-<br/><br/>
-
-<a href="https://github.com/MiniduJ">
-  <img src="https://komarev.com/ghpvc/?username=MiniduJ&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS" />
-</a>
-&nbsp;
 <a href="https://github.com/MiniduJ?tab=followers">
-  <img src="https://img.shields.io/github/followers/MiniduJ?style=for-the-badge&color=1D4ED8&labelColor=0F172A&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/MiniduJ?label=Followers&style=for-the-badge&color=0891b2" alt="GitHub followers" />
 </a>
 
 </div>
 
-<br/>
+---
 
-<!-- ===================================================== -->
-<!--                    ABOUT ME                            -->
-<!-- ===================================================== -->
+<!-- ============================================ -->
+<!--                    ABOUT ME                  -->
+<!-- ============================================ -->
 
 ## 👨‍💻 About Me
-
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiniduJ&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=6" />
 
 I'm a **Software Engineer and UI/UX Designer** passionate about building digital products that combine engineering excellence with thoughtful design.
 
@@ -45,122 +37,132 @@ I enjoy working across the entire product development lifecycle — from underst
 - 🤖 Interested in AI-powered products and workflows.
 - 🚀 Always learning, experimenting, and building.
 
-<br clear="right"/>
-
 ---
 
-<!-- ===================================================== -->
-<!--                    TECH STACK                          -->
-<!-- ===================================================== -->
+<!-- ============================================ -->
+<!--              TECHNOLOGIES & TOOLS            -->
+<!-- ============================================ -->
 
 ## ⚡ Technologies & Tools
 
 I work with a combination of technologies across frontend, backend, databases, infrastructure, and product design.
 
-### Frontend Development
+### 💻 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend technologies" />
 </p>
 
-### Backend Development
+### ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,java,spring,python&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,express&theme=dark" alt="Backend technologies" />
 </p>
 
-### Databases & Infrastructure
+### 🗄️ Databases & Infrastructure
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,gcp,nginx,git,github&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,gcp,nginx,git,github&theme=dark" alt="Databases and infrastructure" />
 </p>
 
-### UI/UX & Design
+### 🎨 UI/UX & Graphic Design
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Design tools" />
+</p>
+
+### 🛠️ Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman,firebase,linux&theme=dark" alt="Development tools" />
 </p>
 
 ---
 
-<!-- ===================================================== -->
-<!--                    GITHUB ANALYTICS                    -->
-<!-- ===================================================== -->
+<!-- ============================================ -->
+<!--                 GITHUB STATS                 -->
+<!-- ============================================ -->
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/MiniduJ">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MiniduJ&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiniduJ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
 
-<a href="https://github.com/MiniduJ">
-<img height="180" src="https://streak-stats.demolab.com?user=MiniduJ&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiniduJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=MiniduJ&bg_color=0D1117&color=94A3B8&line=38BDF8&point=F8FAFC&area=true&area_color=1E3A8A&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
-
----
-
-<!-- ===================================================== -->
-<!--                    CONTRIBUTION SNAKE                  -->
-<!-- ===================================================== -->
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiniduJ/MiniduJ/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiniduJ/MiniduJ/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MiniduJ/MiniduJ/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MiniduJ&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 ---
 
-<!-- ===================================================== -->
-<!--                    CONNECT                             -->
-<!-- ===================================================== -->
+<!-- ============================================ -->
+<!--                CONTRIBUTION GRAPH            -->
+<!-- ============================================ -->
 
-## 🌐 Let's Connect
+## 📈 Contribution Activity
 
 <div align="center">
 
-I'm always interested in connecting with developers, designers, and people building interesting digital products.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiniduJ&bg_color=0d1117&color=06b6d4&line=0891b2&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
 
-<br/>
+</div>
+
+---
+
+<!-- ============================================ -->
+<!--               CONTRIBUTION SNAKE             -->
+<!-- ============================================ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MiniduJ/MiniduJ/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+
+</div>
+
+---
+
+<!-- ============================================ -->
+<!--                  CONNECT                     -->
+<!-- ============================================ -->
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, designers, and people building meaningful digital products.
+
+<div align="center">
 
 <a href="https://github.com/MiniduJ">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<!-- Replace with your actual LinkedIn profile URL -->
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/minidu-punsara-265b2b267/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<!-- Replace with your portfolio website -->
 <a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
-<br/><br/>
+</div>
 
-**Building. Designing. Innovating.**
+---
 
-<br/>
+<!-- ============================================ -->
+<!--                    FOOTER                    -->
+<!-- ============================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:172554,100:0F172A&height=120&section=footer" width="100%" />
+<div align="center">
+
+### 💡 "Great products happen when engineering meets thoughtful design."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:0F172A&height=120&section=footer" width="100%" />
 
 </div>
