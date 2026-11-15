@@ -1,63 +1,166 @@
-<!-- Header Wave Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:38BDF8&height=200&section=header&text=Minidu%20Punsara&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20System%20Architect&descAlignY=60&descSize=16" width="100%" alt="Header Banner" />
+
+<!-- ===================================================== -->
+<!--                    HERO SECTION                       -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:172554,100:0EA5E9&height=230&section=header&text=MINIDU%20PUNSARA&fontSize=48&fontColor=F8FAFC&fontAlignY=36&desc=Software%20Engineer%20%7C%20UI%2FUX%20Designer&descSize=18&descColor=BAE6FD&descAlignY=58&animation=fadeIn" width="100%" />
+
+<br/>
+
+<a href="https://github.com/MiniduJ">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+meaningful+digital+experiences;Engineering+scalable+web+applications;Designing+intuitive+user+experiences;Turning+ideas+into+digital+products" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/MiniduJ">
+  <img src="https://komarev.com/ghpvc/?username=MiniduJ&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS" />
+</a>
+&nbsp;
+<a href="https://github.com/MiniduJ?tab=followers">
+  <img src="https://img.shields.io/github/followers/MiniduJ?style=for-the-badge&color=1D4ED8&labelColor=0F172A&label=FOLLOWERS" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ===================================================== -->
+<!--                    ABOUT ME                            -->
+<!-- ===================================================== -->
+
+## 👨‍💻 About Me
+
+<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiniduJ&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=6" />
+
+I'm a **Software Engineer and UI/UX Designer** passionate about building digital products that combine engineering excellence with thoughtful design.
+
+I enjoy working across the entire product development lifecycle — from understanding user needs and designing interfaces to developing scalable applications and backend systems.
+
+- 💻 Building full-stack web applications.
+- 🎨 Designing intuitive and modern UI/UX experiences.
+- 🏗️ Exploring software architecture and scalable systems.
+- 🤖 Interested in AI-powered products and workflows.
+- 🚀 Always learning, experimenting, and building.
+
+<br clear="right"/>
+
+---
+
+<!-- ===================================================== -->
+<!--                    TECH STACK                          -->
+<!-- ===================================================== -->
+
+## ⚡ Technologies & Tools
+
+I work with a combination of technologies across frontend, backend, databases, infrastructure, and product design.
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" />
 </p>
 
-<!-- Dynamic Typing Subtitle -->
-<p align="center">
-  <a href="https://github.com/MiniduJ">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications+%26+APIs;Crafting+clean%2C+intuitive+UI%2FUX+experiences;Exploring+cloud+architecture+%26+AI+workflows" alt="Typing SVG" />
-  </a>
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,python&theme=dark" />
 </p>
 
-<!-- Profile Views & Social Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiniduJ&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/MiniduJ?tab=followers">
-    <img src="https://img.shields.io/github/followers/MiniduJ?label=Followers&style=flat-square&color=1e293b&logo=github" alt="Followers" />
-  </a>
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,gcp,nginx,git,github&theme=dark" />
+</p>
+
+### UI/UX & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<!-- ===================================================== -->
+<!--                    GITHUB ANALYTICS                    -->
+<!-- ===================================================== -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nextjs,nodejs,java,spring,python,postgres,mongodb,docker,gcp,nginx,git,figma&perline=8" alt="Tech Stack Icons" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/MiniduJ">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MiniduJ&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" />
+</a>
+
+<a href="https://github.com/MiniduJ">
+<img height="180" src="https://streak-stats.demolab.com?user=MiniduJ&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=MiniduJ&bg_color=0D1117&color=94A3B8&line=38BDF8&point=F8FAFC&area=true&area_color=1E3A8A&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
 
 ---
 
-### 📊 GitHub Analytics & Activity
+<!-- ===================================================== -->
+<!--                    CONTRIBUTION SNAKE                  -->
+<!-- ===================================================== -->
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MiniduJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=MiniduJ&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
-</p>
+## 🐍 Contribution Journey
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiniduJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&langs_count=6" alt="Top Languages" />
-</p>
+<div align="center">
 
-<!-- Contribution Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiniduJ&bg_color=0d1117&color=94a3b8&line=38bdf8&point=f8fafc&area=true&area_color=38bdf8&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiniduJ/MiniduJ/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiniduJ/MiniduJ/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MiniduJ/MiniduJ/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
 
 ---
 
-### 🐍 Contribution Grid Snake
+<!-- ===================================================== -->
+<!--                    CONNECT                             -->
+<!-- ===================================================== -->
 
-<!-- Note: Requires the GitHub Action workflow below to generate the SVG on the 'output' branch -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiniduJ/MiniduJ/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiniduJ/MiniduJ/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/MiniduJ/MiniduJ/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</p>
+## 🌐 Let's Connect
 
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E293B,100:0F172A&height=100&section=footer" width="100%" alt="Footer Banner" />
-</p>
+<div align="center">
+
+I'm always interested in connecting with developers, designers, and people building interesting digital products.
+
+<br/>
+
+<a href="https://github.com/MiniduJ">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Replace with your actual LinkedIn profile URL -->
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- Replace with your portfolio website -->
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Building. Designing. Innovating.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:172554,100:0F172A&height=120&section=footer" width="100%" />
+
+</div>
