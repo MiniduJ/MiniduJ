@@ -1,5 +1,5 @@
 <!-- ============================================ -->
-<!--                  PROFILE HEADER               -->
+<!--                 PROFILE HEADER               -->
 <!-- ============================================ -->
 
 <div align="center">
@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=MiniduJ&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge" alt="Profile views" />
 
 <a href="https://github.com/MiniduJ?tab=followers">
-<img src="https://img.shields.io/github/followers/MiniduJ?label=Followers&style=for-the-badge&color=0891b2" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/MiniduJ?label=Followers&style=for-the-badge&color=0891b2" alt="GitHub followers" />
 </a>
 
 </div>
@@ -21,7 +21,7 @@
 ---
 
 <!-- ============================================ -->
-<!--                    ABOUT ME                   -->
+<!--                    ABOUT ME                  -->
 <!-- ============================================ -->
 
 ## 👨‍💻 About Me
@@ -39,7 +39,7 @@ I enjoy working across the entire product development lifecycle — from underst
 ---
 
 <!-- ============================================ -->
-<!--              TECHNOLOGIES & TOOLS             -->
+<!--             TECHNOLOGIES & TOOLS             -->
 <!-- ============================================ -->
 
 ## ⚡ Technologies & Tools
@@ -47,31 +47,26 @@ I enjoy working across the entire product development lifecycle — from underst
 I work with a combination of technologies across frontend, backend, databases, infrastructure, and product design.
 
 ### 💻 Frontend Development
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend technologies" />
 </p>
 
 ### ⚙️ Backend Development
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,express&theme=dark" alt="Backend technologies" />
 </p>
 
 ### 🗄️ Databases & Infrastructure
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,gcp,nginx,git,github&theme=dark" alt="Databases and infrastructure" />
 </p>
 
 ### 🎨 UI/UX & Graphic Design
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Design tools" />
 </p>
 
 ### 🛠️ Development Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman,firebase,linux&theme=dark" alt="Development tools" />
 </p>
@@ -79,25 +74,30 @@ I work with a combination of technologies across frontend, backend, databases, i
 ---
 
 <!-- ============================================ -->
-<!--            GITHUB STATS & ACTIVITY            -->
+<!--          GITHUB STATISTICS & ACTIVITY        -->
 <!-- ============================================ -->
 
 ## 📊 GitHub Statistics & Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MiniduJ/MiniduJ/output/github-metrics.svg" alt="GitHub Metrics" />
+<img width="100%" src="https://raw.githubusercontent.com/MiniduJ/MiniduJ/output/profile-summary-cards-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=MiniduJ&theme=tokyonight&hide_border=true&background=0d1117&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub streak" />
+<img width="49%" src="https://raw.githubusercontent.com/MiniduJ/MiniduJ/output/profile-summary-cards-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+<img width="49%" src="https://raw.githubusercontent.com/MiniduJ/MiniduJ/output/profile-summary-cards-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=MiniduJ&theme=tokyonight&hide_border=true&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub streak" />
 
 </div>
 
 ---
 
 <!-- ============================================ -->
-<!--                CONTRIBUTION SNAKE             -->
+<!--               CONTRIBUTION SNAKE             -->
 <!-- ============================================ -->
 
 ## 🐍 Contribution Snake
@@ -111,7 +111,7 @@ I work with a combination of technologies across frontend, backend, databases, i
 ---
 
 <!-- ============================================ -->
-<!--                   CONNECT                     -->
+<!--                    CONNECT                   -->
 <!-- ============================================ -->
 
 ## 🤝 Let's Connect
@@ -121,15 +121,11 @@ I'm always interested in connecting with developers, designers, and people build
 <div align="center">
 
 <a href="https://github.com/MiniduJ">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/minidu-punsara-265b2b267/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
@@ -137,7 +133,7 @@ I'm always interested in connecting with developers, designers, and people build
 ---
 
 <!-- ============================================ -->
-<!--                     FOOTER                    -->
+<!--                    FOOTER                    -->
 <!-- ============================================ -->
 
 <div align="center">
