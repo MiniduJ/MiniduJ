@@ -1,6 +1,5 @@
-
 <!-- ============================================ -->
-<!--                 PROFILE HEADER               -->
+<!--                  PROFILE HEADER               -->
 <!-- ============================================ -->
 
 <div align="center">
@@ -22,7 +21,7 @@
 ---
 
 <!-- ============================================ -->
-<!--                    ABOUT ME                  -->
+<!--                    ABOUT ME                   -->
 <!-- ============================================ -->
 
 ## 👨‍💻 About Me
@@ -40,7 +39,7 @@ I enjoy working across the entire product development lifecycle — from underst
 ---
 
 <!-- ============================================ -->
-<!--              TECHNOLOGIES & TOOLS            -->
+<!--              TECHNOLOGIES & TOOLS             -->
 <!-- ============================================ -->
 
 ## ⚡ Technologies & Tools
@@ -80,43 +79,43 @@ I work with a combination of technologies across frontend, backend, databases, i
 ---
 
 <!-- ============================================ -->
-<!--                 GITHUB STATS                 -->
+<!--                  GITHUB STATS                 -->
 <!-- ============================================ -->
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiniduJ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=MiniduJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&include_all_commits=true&count_private=true" alt="GitHub statistics" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiniduJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MiniduJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&langs_count=8" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MiniduJ&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=MiniduJ&theme=tokyonight&hide_border=true&background=0d1117&stroke=06b6d4&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="GitHub streak" />
 
 </div>
 
 ---
 
 <!-- ============================================ -->
-<!--                CONTRIBUTION GRAPH            -->
+<!--                 CONTRIBUTION GRAPH            -->
 <!-- ============================================ -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiniduJ&bg_color=0d1117&color=06b6d4&line=0891b2&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiniduJ&bg_color=0d1117&color=06b6d4&line=0891b2&point=ffffff&area=true&area_color=06b6d4&hide_border=true" width="100%" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
 <!-- ============================================ -->
-<!--               CONTRIBUTION SNAKE             -->
+<!--                CONTRIBUTION SNAKE             -->
 <!-- ============================================ -->
 
 ## 🐍 Contribution Snake
@@ -130,7 +129,7 @@ I work with a combination of technologies across frontend, backend, databases, i
 ---
 
 <!-- ============================================ -->
-<!--                  CONNECT                     -->
+<!--                   CONNECT                     -->
 <!-- ============================================ -->
 
 ## 🤝 Let's Connect
@@ -156,7 +155,7 @@ I'm always interested in connecting with developers, designers, and people build
 ---
 
 <!-- ============================================ -->
-<!--                    FOOTER                    -->
+<!--                     FOOTER                    -->
 <!-- ============================================ -->
 
 <div align="center">
